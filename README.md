@@ -4,14 +4,15 @@ This is a simplified implementation of the printf function in C, part of the 42 
 <h2>Introduction</h2>
 The ft_printf function allows you to format and print various types of data to the standard output. It supports the following format specifiers:
 
-%c: Print a character
-%s: Print a string
-%p: Print a pointer
-%d, %i: Print a signed integer
-%u: Print an unsigned integer
-%x: Print an unsigned integer in lowercase hexadecimal
-%X: Print an unsigned integer in uppercase hexadecimal
-%%: Print a percent sign
+%c: Print a character  
+%s: Print a string  
+%p: Print a pointer  
+%d, %i: Print a signed integer  
+%u: Print an unsigned integer  
+%x: Print an unsigned integer in lowercase hexadecimal  
+%X: Print an unsigned integer in uppercase hexadecimal  
+%%: Print a percent sign  
+
 <h2>Usage</h2>
 To use the ft_printf function, include the ft_printf.h header file in your project. Here's a simple example:
 
