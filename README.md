@@ -14,7 +14,8 @@ The ft_printf function allows you to format and print various types of data to t
 %%: Print a percent sign
 <h2>Usage</h2>
 To use the ft_printf function, include the ft_printf.h header file in your project. Here's a simple example:
-```
+
+```c
 #include "ft_printf.h"  
 
 int main()  
