@@ -15,15 +15,15 @@ The ft_printf function allows you to format and print various types of data to t
 <h2>Usage</h2>
 To use the ft_printf function, include the ft_printf.h header file in your project. Here's a simple example:
 
-#include "ft_printf.h"
+#include "ft_printf.h"  
 
-int main()
-{
-    ft_printf("Hello, %s!\n", "world");
-    ft_printf("The answer is %d.\n", 42);
-    return (0);
-}
-
+int main()  
+{  
+    ft_printf("Hello, %s!\n", "world");  
+    ft_printf("The answer is %d.\n", 42);  
+    return (0);  
+}  
+ 
 <h2>How It Works</h2>
 The ft_printf function is implemented using variadic arguments and a loop to parse the format string. It processes each format specifier and prints the corresponding data accordingly.
 
