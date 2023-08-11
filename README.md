@@ -4,6 +4,7 @@ This is a simplified implementation of the printf function in C, part of the 42 
 <h2>Introduction</h2>
 The ft_printf function allows you to format and print various types of data to the standard output. It supports the following format specifiers:
 
+  
 %c: Print a character  
 %s: Print a string  
 %p: Print a pointer  
