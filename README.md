@@ -2,9 +2,9 @@
 This is a simplified implementation of the printf function in C, part of the 42 school curriculum. The goal of this project is to understand variadic functions, parsing, and printing different types of data.
 
 <h2>Introduction</h2>
-The ft_printf function allows you to format and print various types of data to the standard output. It supports the following format specifiers:
 
-  
+The ft_printf function allows you to format and print various types of data to the standard output. It supports the following format specifiers:  
+
 %c: Print a character  
 %s: Print a string  
 %p: Print a pointer  
